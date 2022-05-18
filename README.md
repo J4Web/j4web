@@ -74,7 +74,7 @@ or <a href="mailto:prakhar2023ec@gmail.com"><b>email</b></a> me
 <img src="https://media.tenor.com/images/03726cf974172491d5a348d0ac25125b/tenor.gif" alt="Bye!" width="300"/>
 
 <i>Follow me around the web:</i><br>
-<a href="https://twitter.com/j4web007" alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fj4web007"></a>
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/j4web007.svg?style=social&label=Follow%20%40j4web)](https://twitter.com/j4web007)
 
 <a href="https://www.linkedin.com/in/prakhar-srivastava-427904194/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
