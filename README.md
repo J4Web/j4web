@@ -4,7 +4,7 @@
 
 <div align="center" width="50">
 
-<img src="" alt="Welcome!" width="600"/>
+<img src="https://github.com/J4Web/j4web/blob/main/wel.gif" alt="Welcome!" width="600"/>
 
 </div>
 
