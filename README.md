@@ -55,7 +55,7 @@ or <a href="mailto:prakhar2023ec@gmail.com"><b>email</b></a> me
 
 ## GitHub Stats
 [
-![Badri Vishal's github activity graph](https://activity-graph.herokuapp.com/graph?username=j4web&theme=react-dark)](https://activity-graph.herokuapp.com/graph?username=j4web&theme=react-dark)
+![J4WEB's github activity graph](https://activity-graph.herokuapp.com/graph?username=j4web&theme=react-dark)](https://activity-graph.herokuapp.com/graph?username=j4web&theme=react-dark)
 
 <img alt="Github-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=j4web&theme=chartreuse-dark"/>
 
@@ -75,9 +75,7 @@ or <a href="mailto:prakhar2023ec@gmail.com"><b>email</b></a> me
 
 <i>Follow me around the web:</i><br>
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/j4web007.svg?style=social&label=Follow%20%40j4web)](https://twitter.com/j4web007)
-
 <a href="https://www.linkedin.com/in/prakhar-srivastava-427904194/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
 <a href="https://www.instagram.com/Prakhar_31_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 </div>
