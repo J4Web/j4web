@@ -4,7 +4,7 @@
 
 <div align="center" width="50">
 
-<img src="https://github.com/J4Web/j4web/blob/main/wel.gif" alt="Welcome!" width="600"/>
+<img src="" alt="Welcome!" width="600"/>
 
 </div>
 
@@ -44,21 +44,25 @@ or <a href="mailto:prakhar2023ec@gmail.com"><b>email</b></a> me
 
 ## 🗄 My projects:
 
+
 [![React-Color-Picker ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=j4web&repo=ColorPicker&show_owner=true&theme=dark)](https://github.com/J4Web/ColorPicker)
 
 [![Covid-19 Tracker ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=j4web&repo=Covid_Tracker&show_owner=true&theme=dark)](https://github.com/J4Web/Covid_Tracker)
 
-[![Sparks-Foundation-BankingApp](https://github-readme-stats.vercel.app/api/pin/?username=j4web&repo=sparkbanking&show_owner=true&theme=dark)
+[![Corona_Predictor ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=j4web&repo=sparkbanking&show_owner=true&theme=dark)
 ](https://github.com/J4Web/sparkbanking)
 
 
 ## GitHub Stats
+[
+![Badri Vishal's github activity graph](https://activity-graph.herokuapp.com/graph?username=j4web&theme=react-dark)](https://activity-graph.herokuapp.com/graph?username=j4web&theme=react-dark)
 
 <img alt="Github-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=j4web&theme=chartreuse-dark"/>
 
 <a href="https://github.com/j4web">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=j4web&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="ishanExtreme's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=j4web&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="J4WEB's Stats">
   </a>
+
 
 <a href="https://github.com/j4web">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j4web&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -67,11 +71,13 @@ or <a href="mailto:prakhar2023ec@gmail.com"><b>email</b></a> me
 ---
 <div align="center">
   
-<img src="https://media.tenor.com/images/03726cf974172491d5a348d0ac25125b/tenor.gif" alt="Bye!" width="600"/>
+<img src="https://media.tenor.com/images/03726cf974172491d5a348d0ac25125b/tenor.gif" alt="Bye!" width="300"/>
 
 <i>Follow me around the web:</i><br>
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F/j4web007)
+<a href="https://twitter.com/j4web007" alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fj4web007"></a>
+
 <a href="https://www.linkedin.com/in/prakhar-srivastava-427904194/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
 <a href="https://www.instagram.com/Prakhar_31_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 </div>
