@@ -64,7 +64,7 @@ or <a href="mailto:prakhar2023ec@gmail.com"><b>email</b></a> me
   </a>
 
 
-<a href="https://github.com/j4web">
+<a href="https://twitter.com/j4web31">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j4web&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
