@@ -64,8 +64,8 @@ or <a href="mailto:prakhar2023ec@gmail.com"><b>email</b></a> me
   </a>
 
 
-<a href="[Twitter](https://twitter.com/0xj4web)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xj4web&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="[Github](https://github.com/j4web)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j4web&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 ---
@@ -74,7 +74,7 @@ or <a href="mailto:prakhar2023ec@gmail.com"><b>email</b></a> me
 <img src="https://media.tenor.com/images/03726cf974172491d5a348d0ac25125b/tenor.gif" alt="Bye!" width="300"/>
 
 <i>Follow me around the web:</i><br>
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/j4web31.svg?style=social&label=Follow%20%40j4web)](https://twitter.com/j4web31)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/j4web31.svg?style=social&label=Follow%20%40j4web)](https://twitter.com/0xj4web)
 <a href="https://www.linkedin.com/in/prakhar-srivastava-427904194/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/Prakhar_31_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
